@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif; /* Set a font family */
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove default padding */
+    text-align: center; /* Center content horizontally */
+    background-image: url('images/bg.jpeg'); /* Adjust path for your image */
+    background-repeat: no-repeat; /* Control image repetition (optional) */
+    background-position: center; /* Adjust image position (optional) */
+    background-size: cover; /* Resize image to fit (optional) */
+    
+  }
+  
+  h2 {
+    margin-top: 20px; /* Add margin top for heading */
+  }
+  
+  img {
+    display: block; /* Display image as block element */
+    margin: 20px auto; /* Add margin around image */
+  }
+  
+  
